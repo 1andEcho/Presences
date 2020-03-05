@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Downward",
+    "id": "253787308384321537"
+  },
+  "service": "Hentaiser",
+  "description": {
+    "en": "Hentaiser: All the hentai, doujinshi and porn anime in one web app. Enjoy!"
+  },
+  "url": "app.hentaiser.com",
+  "version": "1.0.0",
+  "logo": "https://pbs.twimg.com/profile_images/1134098785179750404/r-WDYr9E.png",
+  "thumbnail": "https://cdn.discordapp.com/attachments/398150240588398602/685111839624790016/unknown.png",
+  "color": "#AE1111",
+  "tags": [
+    "hentaiser",
+    "reading",
+	"nsfw"
+  ],
+  "category": "anime"
+}
